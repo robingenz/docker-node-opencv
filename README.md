@@ -1,6 +1,6 @@
 # docker-node-opencv
 
-Docker image with NodeJS and OpenCV.
+🐳 Docker image with NodeJS and OpenCV. 
 
 ## How to use this image
 
