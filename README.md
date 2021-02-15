@@ -13,14 +13,14 @@ Pull from Docker Registry:
 
 Build from GitHub:  
 ```
-docker build -t robingenz/docker-node-opencv github.com/robingenz/docker-node-opencv
+docker build -t robingenz/node-opencv github.com/robingenz/docker-node-opencv
 ```
 
 ### Run image
 
 Run the docker image:  
 ```
-docker run -it robingenz/docker-node-opencv bash
+docker run -it robingenz/node-opencv bash
 ```
 
 ## Questions / Issues
