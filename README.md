@@ -12,12 +12,16 @@ Pull from Docker Registry:
 ### Build image
 
 Build from GitHub:  
-`docker build -t https://github.com/robingenz/docker-node-opencv github.com/robingenz/docker-node-opencv`
+```
+docker build -t robingenz/docker-node-opencv github.com/robingenz/docker-node-opencv
+```
 
 ### Run image
 
 Run the docker image:  
-`docker run -it github.com/robingenz/docker-node-opencv bash`
+```
+docker run -it robingenz/docker-node-opencv bash
+```
 
 ## Questions / Issues
 
